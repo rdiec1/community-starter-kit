@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+DEEZ NUTS
 
 ## What it does
 
-FEATURES PLACEHOLDER
+DEEZ NUTS
 
 ## Getting started
 
